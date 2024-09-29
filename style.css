@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    background-image:url(./image1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+
+  canvas {
+    border: 10px solid #000; 
+    background: #eee;
+  }
